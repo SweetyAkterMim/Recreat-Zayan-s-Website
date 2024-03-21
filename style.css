@@ -1,0 +1,292 @@
+nav{
+    background-color: rgb(63, 62, 62);
+    height:70px;
+    width:900px;
+    margin-left: 157px;
+    padding-top: 20px;
+    padding-left: 75px;
+}
+nav a{
+    text-decoration:none ;
+    color: white;
+    padding-left: 22px;
+    padding-top:.10px;
+   
+}
+ 
+
+.cv{
+    background-color: rgb(17, 206, 17);
+    height: 70px;
+    width:225px;
+    padding:10px 10px 10px 10px;
+    padding-left: 40px;
+    
+}
+.button1{
+    display: flex;
+    gap: 1cm;
+    
+}
+.video{
+    margin-top: 30px;
+}
+.sec1{
+    display: flex;
+    gap:10cm;
+    margin-top:10px;
+    margin-right:30px;
+}
+.ms{
+    margin-left:490px;
+}.ms h4{
+    margin-left:110px;
+}
+.boxx1{
+    height:400px;
+    width:300px;
+    border:2px solid rgb(63, 62, 62);
+}
+.boxx1 h2{
+margin-left:38px;
+}
+.boxx1 p{
+    text-align: justify;
+    margin:8px 8px 8px 8px;
+
+}
+.boxx2{
+    height:400px;
+    width:300px;
+    border:2px solid rgb(63, 62, 62);
+}
+.boxx2 h2{
+    margin-left:38px;
+}
+.boxx2 p{
+    text-align: justify;
+    margin:8px 8px 8px 8px;
+}
+.boxx3{
+    height:400px;
+    width:300px;
+    border:2px solid rgb(63, 62, 62);
+}
+.boxx3 h2{
+    margin-left:38px;
+}
+.boxx3 p{
+    text-align: justify;
+    margin:8px 8px 8px 8px;
+}
+.box3-3{
+    display: flex;
+    justify-content:space-evenly;
+}
+.abm h4{
+    
+    font-size:20px;
+}
+.abm h1{
+   
+    font-size:40px;
+}
+.abm hr{
+    width:150px;
+} 
+.hpd{
+    display:flex;
+}
+.abm{
+    display: flex;
+    gap:7cm;
+    margin-left: 30px;
+}
+.pph h2{
+    
+    background-color: rgb(17, 206, 17);
+    height: 50px;
+    width:235px;
+    padding:10px 10px 10px 20px;
+    padding-top: 34px;
+    font-size:30px;
+    margin-top: 34px;
+}
+.dii h1{
+    color:white;
+
+}
+.box221{
+    background-color: rgb(63, 62, 62);
+    color: white;
+   height: 250px;
+   width: 250px;
+   padding:10px;
+}
+.box221 h1{
+    margin-left:90px ;
+    color: white;
+    font-size:40px;
+}
+.box221 p{
+    margin-left: 60px;
+    font-size: 20px;
+}
+.box222{
+    background-color:rgb(63, 62, 62);
+    color: white;
+   height: 250px;
+   width: 250px;
+   padding:10px;
+}
+.box222 h1{
+    margin-left:90px ;
+    color: white;
+    font-size:40px;
+}
+.box222 p{
+    margin-left: 60px;
+    font-size: 20px;
+}
+.box4 {
+    display: flex;
+    gap:1cm;
+}
+.getfrm{
+    background-color: rgb(63, 62, 62);
+    height: 600px;
+    width: 400px;
+    margin-top:60px;
+    margin-left:100px;
+    text-align: center;
+    
+}
+.dii{
+    display: flex;
+    gap: 3cm;
+    
+}
+.Total{
+    background-color: black;
+    margin: 5px 5px 5px 5px;
+    padding: 10px 10px 10px 10px;
+}
+.edusk h2{
+    font-size: 40px;
+    color: white;
+}
+.edusk p{
+   padding-top:20px ;
+    height:40px;
+    width: 90px;
+    border: 1px solid  rgb(17, 206, 17);
+    color: white;
+    padding-left:17px;
+}
+.edusk h3{
+    color: white;
+}
+.edusk h4{
+    margin-left:550px ;
+}
+.edusk h1{
+    font-size: 40px;
+    color: white;
+    margin-left:450px ;
+}
+.numbox{
+    display:flex;
+    gap:5cm;
+    margin-left:10px ;
+}
+.twopp{
+    display:flex;
+    gap: .25cm;
+    margin-left: 200px;
+}
+.twndpp{
+    display:flex;
+    gap: .25cm;
+    margin-left: 100px;
+}
+.clmy h3{
+    margin-left: 550px;
+}
+.clmy h1{
+    margin-left: 450px;
+}
+.frbx{
+    border: 3px solid rgb(63, 62, 62);
+    height:300px;
+    width: 600px;
+    margin-left: 40px;
+     padding-left: 40px;
+    
+}
+
+.frbx1{
+    border: 3px solid rgb(63, 62, 62);
+    height:300px;
+    width: 600px;
+    padding-left: 40px;
+   
+}
+.boox{
+    display: flex;
+    gap: 1cm;
+  
+}
+footer{
+    background-color: lightgreen;
+    height:100px;
+    color: white;
+    font-size: 60px;
+    margin-top:70px;
+    padding-top: 40px;
+    
+}
+.bopp{
+    margin-top: 10px;
+    margin-left: 95px;
+}
+.frm{
+    display:block;
+
+}
+.frbx1{
+    margin-right: 40px;
+}
+.repro h3{
+margin-left: 500px;
+}
+.repro h1{
+    margin-left: 350px;
+}
+.twndpp{
+    margin-left: 200px;
+}
+.frm input{
+    border: 2px solid rgb(17, 206, 17);
+    height: 40px;
+    width: 330px;
+    background-color:rgb(63, 62, 62) ;
+    color:white;
+    font-size:15px;
+    padding-left:22px;
+}
+
+.box221 img{
+    margin-left: 98px;
+}
+.box222 img{
+    margin-left: 98px;
+}
+.star{
+    margin-top: 15px;
+}
+.sub{
+    background-color:  rgb(17, 206, 17);
+}
+.wri11{
+    margin-left: 100px;
+}
